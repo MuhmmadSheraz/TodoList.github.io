@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.main {
+    background-color: navajowhite;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.content{
+  margin: 0 auto!important;
+}
+input{
+ width: 75%;
+border: none;
+border-radius: 5px!important;
+padding:10px;
+border-radius:2px
+}
+.addBtn{
+    margin-left: -50px;
+    
+}
+.updateBtn{
+    margin-left: -70px;
+    
+}
+.task_content{
+
+    margin:0 auto;
+}
+.taskDiv{
+    border: none;
+    border-radius: 5px!important;
+    margin: 0 auto;
+    width: 75%;
+    background-color: white;
+}
